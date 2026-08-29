@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+# Next.js build output
+.next/
+out/
+# Environment files — never commit real keys (AI keys stay server-side per spec Part 17)
+.env
+.env.local
+.env*.local
+# Vercel
+.vercel
+# Supabase local dev
+supabase/.temp/
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
