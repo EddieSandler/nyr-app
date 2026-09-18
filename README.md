@@ -1,4 +1,4 @@
-# nym-app — NotYourResume
+# nyr-app — NotYourResume
 
 Production build of NotYourResume. The MVP spec, prompt copy, and brand direction live in
 `../nym-mvp/` — see `CLAUDE.md` in this repo for the precedence rules and non-negotiables.
