@@ -6,6 +6,7 @@ out/
 # Environment files — never commit real keys (AI keys stay server-side per spec Part 17)
 .env
 .env.local
+.env.test
 .env*.local
 # Vercel
 .vercel
@@ -15,3 +16,6 @@ supabase/.temp/
 .DS_Store
 Thumbs.db
 *.log
+# TypeScript incremental build cache
+tsconfig.tsbuildinfo
+*.md
